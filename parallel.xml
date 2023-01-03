@@ -1,0 +1,10 @@
+<suite name = "suite">
+<test name = "paralleltesting">
+<classes>
+	<class name ="com.annotations.Paralleltestng"/>
+	<class name="com.annotations.Paralleltestng1"/>
+	
+</classes>	
+	</test>	
+
+</suite>
